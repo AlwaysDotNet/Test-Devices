@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/title.svg</file>
+        <file>icons/svg_title.png</file>
+        <file>icons/btnSvg.svg</file>
+        <file>icons/add.svg</file>
+        <file>icons/delete.svg</file>
+        <file>icons/update.svg</file>
+        <file>icons/help.svg</file>
+        <file>icons/append.svg</file>
+        <file>icons/deleted.svg</file>
+        <file>icons/edited.svg</file>
+        <file>icons/icons8-close.gif</file>
+        <file>icons/dlg_close.svg</file>
+    </qresource>
+</RCC>
